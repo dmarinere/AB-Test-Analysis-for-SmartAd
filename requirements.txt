@@ -691,7 +691,7 @@ wavio==0.0.4
 wcwidth==0.1.9
 webencodings==0.5.1
 websocket-client==0.57.0
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 wfdb==3.1.0
 whichcraft==0.6.1
 widgetsnbextension==3.5.1
